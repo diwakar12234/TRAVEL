@@ -1,0 +1,15 @@
+.image-container {
+    position: relative;
+  }
+  
+  .image-caption {
+    position:absolute;
+    top: 20px;
+    left: 10px;
+    font-size: 35px;
+    font-weight: 600;
+    color: red;
+    
+    padding: 10px;
+  }
+ 
